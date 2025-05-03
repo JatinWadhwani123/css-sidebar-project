@@ -27,7 +27,7 @@ This layout can be used for:
 
 📁 Files Included
 
-    index.html — Main HTML structure
+    miniproject1.html — Main HTML structure
 
     style24.css — Styling with transitions and hover effects
 
